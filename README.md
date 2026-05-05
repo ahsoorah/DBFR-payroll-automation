@@ -58,6 +58,7 @@ python payroll_formatter.py
 Process: Follow the GUI prompts to select your source file, enter the reporting unit, and save the formatted output.
 
 Author
-Suriyah Saravanan
-Bachelor's in Management Information Systems (MIS), Cybersecurity
+---
+Suriyah Saravanan | 
+Bachelor's in Management Information Systems (MIS), Cybersecurity | 
 Florida Atlantic University
